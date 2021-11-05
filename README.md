@@ -6,6 +6,7 @@
 - No nordeste 🏖️
 - Estou cursando Análise e desenvolvimento de sistemas 💻
 - Pretendo ser um dia um Dev Full-Stack 🕶️
+- DEVELOPER
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevesfelipe47&show_icons=true&theme=radical)
 
