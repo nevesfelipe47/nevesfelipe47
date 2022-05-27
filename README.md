@@ -3,7 +3,6 @@
 ## Eu sou o Felipe Neves
 
 - Eu moro no Brasil
-- No nordeste 🏖️
 - Estou cursando Análise e desenvolvimento de sistemas 💻
 - Pretendo ser um dia um Dev Full-Stack 🕶️
 - DEVELOPER
