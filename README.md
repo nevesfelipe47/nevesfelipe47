@@ -5,7 +5,7 @@
 - Eu moro no Brasil
 - Estou cursando Análise e desenvolvimento de sistemas 💻
 - Pretendo ser um dia um Dev Full-Stack 🕶️
-- DEVELOPER
+- Desenvolvedor e entusiasta de Design
 
 <div align="left">
   <a href="https://github.com/nevesfelipe47">
